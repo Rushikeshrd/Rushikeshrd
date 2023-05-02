@@ -15,13 +15,11 @@
 
 
 <!--h1 without bottom border-->
-<h1>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-</div>
-</h1>	
+</div>	
 
 <p align="center">
   <a href="https://skillicons.dev">
