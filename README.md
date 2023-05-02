@@ -30,12 +30,7 @@
       </div>
 
 </p>
-<div>
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<div id="user-content-toc">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,python,fastapi,postgres,vscode,html,css,react,js,c,cpp,figma,ai,ps" />
