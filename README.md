@@ -15,10 +15,8 @@
 - 🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends and developments in the industry.
 
 - 📫 How to reach me **rushikeshdasarwad23@gmail.com**
-
-
-
 </p>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
