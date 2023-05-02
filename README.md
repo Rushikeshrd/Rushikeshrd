@@ -30,8 +30,11 @@
       </div>
 
 </p>
+
+<h1 align="center">My Skillset</a></h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=azure,c,cpp,html,css,react,js,python,fastapi,postgres,vscode,figma,ai,ps" />
   </a>
 </p>
