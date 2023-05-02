@@ -34,8 +34,6 @@
   </ul>
 </div>
 
-<a href="http://www.github.com/Rushikeshrd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikeshrd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -46,3 +44,11 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/the_harry_rd23?igshid=YmMyMTA2M2Y=">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
+      
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">My Gihub Stats</h1></summary>
+  </ul>
+</div>
+<a href="http://www.github.com/Rushikeshrd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikeshrd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      
