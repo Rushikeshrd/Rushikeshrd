@@ -1,40 +1,33 @@
-👋 Hello and welcome to my GitHub profile!
-                                                                      ⚡⚡⚡⚡⚡⚡⚡
+<h1 align="center">Hi 👋, I'm Rushikesh</a></h1>
+<h3 align="center">A passionate Software developer from Nanded(MH),India&#127470;&#127475</h3>
 
-👨‍💻 About Me:
-I am a passionate developer who loves to create meaningful and impactful applications. My expertise lies in Python,React,HTML,CSS.
+<p align="left"> <a href="https://www.linkedin.com/in/rushikesh-dasarwad-b70b15228/" target="blank"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="RushikeshD" /></a> </p>
 
-🔭 Current Organization:
-Currently, I am working at MagnitudeAI Ltd as a Full Stack Developer.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-🌱 Learning:
-I am constantly learning and exploring new technologies to stay up-to-date with the latest trends and developments in the industry.
+- 🔭 I’m currently working in <a href="https://magnitudeai.co.uk/" target="blank">MagnitudeAI Pvt Ltd</a>
 
-📫 Contact Me:
-You can reach me at my [Linkedin](https://www.linkedin.com/in/rushikesh-dasarwad-b70b15228/).
+- 🌱 I’m currently Working as Full Stack Developer
 
-🤝 Collaborate:
-I am open to collaborate on any interesting projects related to my expertise. Feel free to reach out to me if you have something in mind.
+- 🤝 I’m available for freelancing.
 
-👀 Thank you for visiting my profile!
+- 🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends and developments in the industry.
 
-Find me all around web!!
+- 📫 How to reach me **rushikeshdasarwad23@gmail.com**
 
-![bxl-linkedin-square](https://www.linkedin.com/in/rushikesh-dasarwad-b70b15228/)
-![instagram](https://user-images.githubusercontent.com/100573996/235735388-4273913b-47ba-4bef-92e9-c5c2e113bcaf.png)
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
 
-<!--
-**Rushikeshrd/Rushikeshrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rushikesh-dasarwad-b70b15228/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rushikeshrd">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/the_harry_rd23?igshid=YmMyMTA2M2Y=">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
