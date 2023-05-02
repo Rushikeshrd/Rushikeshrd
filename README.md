@@ -16,7 +16,23 @@
 
 - 📫 How to reach me **rushikeshdasarwad23@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,python,fastapi,postgres,vscode,html,css,react,js,c,cpp,figma,ai,ps" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
 
@@ -28,11 +44,3 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/the_harry_rd23?igshid=YmMyMTA2M2Y=">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
-
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,python,fastapi,postgres,vscode,html,css,react,js,c,cpp,figma,ai,ps" />
-  </a>
-</p>
