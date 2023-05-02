@@ -30,4 +30,4 @@
       </div>
 
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=python,react,javascript,html,css,azure,vscode,photoshop,figma,adobe illustrator,)](https://skillicons.dev)
