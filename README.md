@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</a></h1>
-<h3 align="center">A passionate Software developer from Nanded(MH),India&#127470;&#127475</h3>
+<h3 align="center">A passionate Software Developer from Nanded(MH),India &#127470;&#127475</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rushikesh-dasarwad-b70b15228/" target="blank"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="RushikeshD" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
