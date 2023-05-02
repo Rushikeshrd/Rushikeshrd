@@ -1,7 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Rushikeshrd)
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rushikesh</a></h1>
 <h3 align="center">A passionate Software Developer from Nanded(MH),India &#127470;&#127475</h3>
-
-![](https://komarev.com/ghpvc/?username=Rushikeshrd)
 
 
 - 🔭 I’m currently working in <a href="https://magnitudeai.co.uk/" target="blank">MagnitudeAI Pvt Ltd</a> as Full Stack Developer
