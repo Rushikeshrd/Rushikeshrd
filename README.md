@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure (https://azure.microsoft.com/en-us/get-started/azure-portal),python,fastapi,postgres,vscode,html,css,react,js,c,cpp,figma,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=azure [https://azure.microsoft.com/en-us/get-started/azure-portal],python,fastapi,postgres,vscode,html,css,react,js,c,cpp,figma,ai,ps" />
   </a>
 </p>
 
