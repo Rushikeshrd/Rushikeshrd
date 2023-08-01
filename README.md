@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer from Nanded(MH),India &#127470;&#127475</h3>
 
 
-- 🔭 I’m currently working in <a href="https://magnitudeai.co.uk/" target="blank">MagnitudeAI Pvt Ltd</a> as Full Stack Developer
+- 🔭 I’m currently working at <a href="https://magnitudeai.co.uk/" target="blank">MagnitudeAI Pvt Ltd</a> as Full Stack Developer
 
 - 🤝 I’m available for freelancing.
 
