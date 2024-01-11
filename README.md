@@ -3,9 +3,28 @@
 <h3 align="center">A passionate Software Developer from Nanded(MH),India &#127470;&#127475</h3>
 
 
-- 🤝 I’m available for freelancing.
+- 🤝 I am a passionate and enthusiastic software developer with a strong foundation in Java, C++, and Data Structures & Algorithms (DSA). As a recent graduate, I am eager to apply my skills and contribute to real-world projects.
 
 - 🌱 I am constantly learning and exploring new technologies to stay up-to-date with the latest trends and developments in the industry.
+
+## 🚀 Skills
+- **Programming Languages:** Java, C++, C
+- **Web Development:** HTML, CSS, MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Backend Development:** Spring Boot, Express.js, Node.js
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git
+- **APIs:** RESTful APIs
+- **Frontend Libraries:** React.js, Redux
+- **CSS Frameworks:** Bootstrap, Tailwind CSS
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **CI/CD:** GitHub Actions
+- **Design Tools:** Figma
+
+## 🎨 Design Enthusiast
+Apart from coding, I have a keen interest in UI/UX design and enjoy creating visually appealing and user-friendly interfaces using Figma.
+
+## 🤝 Open to Collaborate
+I am open to collaboration and eager to contribute to open-source projects. If you have an exciting project or opportunity, feel free to reach out!
 
 - 📫 How to reach me **rushikeshdasarwad23@gmail.com**
 </p>
