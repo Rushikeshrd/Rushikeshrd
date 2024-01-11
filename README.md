@@ -62,9 +62,4 @@ I am open to collaboration and eager to contribute to open-source projects. If y
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
       
-
-
-[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikeshrd&show=stars,commits,prs,issues,contribs)](https://github.com/Rushikeshrd/github-readme-stats)
-
-
-      
+     
