@@ -64,7 +64,7 @@ I am open to collaboration and eager to contribute to open-source projects. If y
       
 
 
-[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikeshrd)](https://github.com/Rushikeshrd/github-readme-stats)
+[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikeshrd&show=stars,commits,prs,issues,contribs)](https://github.com/Rushikeshrd/github-readme-stats)
 
 
       
