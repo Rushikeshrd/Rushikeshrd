@@ -2,7 +2,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rushikesh</a></h1>
 <h3 align="center">A passionate Software Developer from Nanded(MH),India &#127470;&#127475</h3>
 
-<h3 align="center">🔗 Portfolio: <a href="https://rushikeshrd.netlify.app/">Visit Now!</a></h3>
+<h3 align="center">🔗 Portfolio: <a href="https://rushikeshrd.netlify.app/">Visit Now!</a>🚀</h3>
 
 
 - 🤝 I am a passionate and enthusiastic software developer with a strong foundation in Java, C++, and Data Structures & Algorithms (DSA). As a recent graduate, I am eager to apply my skills and contribute to real-world projects.
